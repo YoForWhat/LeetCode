@@ -1,2 +1,2 @@
 # LeetCode
-LeetCode learn
+LeetCode编码题解
